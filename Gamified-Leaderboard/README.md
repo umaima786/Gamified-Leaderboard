@@ -47,7 +47,7 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 2.  **Prerequisites**: Ensure you have [Node.js](https://nodejs.org/) (which includes npm) and the [Angular CLI](https://angular.dev/cli) installed globally.
 3.  **Clone the repository**:
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/umaima786/Gamified-Leaderboard/tree/main/Gamified-Leaderboard
     ```
 4.  **Navigate to the project directory**:
     ```bash
